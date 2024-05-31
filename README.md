@@ -1,8 +1,10 @@
+# About
+
 Web scraper that extracts the prices of motorcycle gear articles from 4 websites at regular intervals (daily) in csv format. 
 
 The script runs automatically in the background following a schedule (each day at 12:00). 
 
-Instructions: 
+# Setup and Running Instructions: 
 
   @ Create a folder for the outputs to be stored in, then assign the full path of this folder to the variable PATH,  
     for example: "Desktop/Programare Extra/PyCharm Py/Web Scraping". 
